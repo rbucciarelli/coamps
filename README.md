@@ -1,4 +1,4 @@
-##FNMOC COAMPS Data Extraction and Conversion
+## FNMOC COAMPS Data Extraction and Conversion
 
 Aggregate and Convert GRIB files into NetCDF format
 
