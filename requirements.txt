@@ -1,0 +1,10 @@
+cfgrib
+gdal
+xarray
+numpy
+re
+bs4
+matplotlib
+netcdf4
+scipy
+rasterio

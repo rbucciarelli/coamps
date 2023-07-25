@@ -1,0 +1,39 @@
+{
+    "wnd_ucmp": {
+        "long_name":"The east-west component of the wind which is relative to the east-west axis of the grid This is true east for spherical and mercator but not for lambert conformal and others @ Specified height level above ground",
+        "units":"m/s",
+        "description":"The east-west component of the wind which is relative to the east-west axis of the grid This is true east for spherical and mercator but not for lambert conformal and others @ Specified height level above ground",
+        "Grib_Variable_Id":"VAR_58-0-3-33_L105",
+        "Grib_Parameter_Name":"wnd_ucmp_height_above_ground",
+        "Grib1_Level_Desc":"Specified height level above ground",
+        "Grib1_Level_Type":"105"
+    },
+    "wnd_vcmp": {
+        "long_name":"The north-south componenet of the wind which is relative to the north-south axis of the grid This is true east for spherical and mercator but not for lambert conformal and others @ Specified height level above ground",
+        "units":"m/s",
+        "description":"The north-south componenet of the wind which is relative to the north-south axis of the grid This is true east for spherical and mercator but not for lambert conformal and others",
+        "Grib_Variable_Id":"VAR_58-0-3-34_L105",
+        "Grib_Parameter_Name":"wnd_ucmp_height_above_ground",
+        "Grib1_Level_Desc":"Specified height level above ground",
+        "Grib1_Level_Type":"105"
+    },
+    "wnd_utru": {
+        "long_name":"The east-west wind component based on true east correct for lambert conformal projection @ Specified height level above ground",
+        "units":"m/s",
+        "description":"The east-west wind component based on true east correct for lambert conformal projection",
+        "Grib_Variable_Id":"VAR_58-0-3-251_L105",
+        "Grib_Parameter_Name":"wnd_utru_height_above_ground",
+        "Grib1_Level_Desc":"Specified height level above ground",
+        "Grib1_Level_Type":"105"
+    },
+    "wnd_vtru": {
+        "long_name":"The north-south wind component based on true north correction for lambert conformal projection @ Specified height level above ground",
+        "units":"m/s",
+        "description":"The north-south wind component based on true north correction for lambert conformal projection",
+        "Grib_Variable_Id":"VAR_58-0-3-252_L105",
+        "Grib_Parameter_Name":"wnd_vtru_height_above_ground",
+        "Grib1_Level_Desc":"Specified height level above ground",
+        "Grib1_Level_Type":"105"
+    }
+
+}
